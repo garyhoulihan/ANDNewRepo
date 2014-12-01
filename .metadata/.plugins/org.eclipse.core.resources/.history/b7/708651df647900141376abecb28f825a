@@ -14,8 +14,6 @@ testing
 
 <p>
 Name is : ${user.getName()}
-<br>
-
 Email is : ${user.getEmail()}
 
 

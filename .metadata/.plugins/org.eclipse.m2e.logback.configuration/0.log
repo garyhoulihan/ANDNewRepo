@@ -207,3 +207,35 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: unexpected 
 2014-12-01 12:50:13,643 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
 2014-12-01 12:50:13,645 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2014-12-01 12:50:13,645 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:14:56,213 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:14:56,222 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:14:56,224 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:14:56,225 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:15:43,217 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:15:43,218 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:15:43,219 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:15:43,220 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:16:00,961 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:16:00,969 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:16:00,970 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:16:00,971 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:16:21,278 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:16:21,287 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:16:21,290 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:16:21,290 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:16:44,901 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:16:44,909 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:16:44,912 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:16:44,912 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:17:23,232 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:17:23,240 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:17:23,241 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:17:23,242 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:17:46,708 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:17:46,715 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:17:46,717 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:17:46,717 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources
+2014-12-01 14:18:07,972 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:18:07,980 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/main/resources
+2014-12-01 14:18:07,982 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 14:18:07,982 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/garyhoulihan/ANDNewRepo/Hawaii/src/test/resources

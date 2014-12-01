@@ -13,12 +13,8 @@ testing
 </p>
 
 <p>
-Name is : ${user.getName()}
-<br>
-
-Email is : ${user.getEmail()}
-
-
+Name is ${user.getName()}
+Email is ${user.getEmail()}
 </p>
 
 
