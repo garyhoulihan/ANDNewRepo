@@ -8,5 +8,15 @@
 </head>
 <body>
 
+<p>
+testing
+</p>
+
+<p>
+${user.getName()}
+
+</p>
+
+
 </body>
 </html>
